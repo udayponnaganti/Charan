@@ -92,7 +92,7 @@ export const projects: ProjectData[] = [
 export const education: Education[] = [
   {
     id: 1,
-    institution: 'XYZ University of Technology',
+    institution: 'Lovely proffesional  University of Technology',
     degree: 'Bachelor of Technology in Computer Science',
     duration: '2021 - 2025 (Expected)',
     description: 'Pursuing a B.Tech degree with specialization in Artificial Intelligence and Machine Learning. Currently maintaining a 9.2 CGPA.',
@@ -100,7 +100,7 @@ export const education: Education[] = [
   },
   {
     id: 2,
-    institution: 'ABC Junior College',
+    institution: 'Sri Chaitanya Junior College',
     degree: 'Higher Secondary Education (12th Grade)',
     duration: '2019 - 2021',
     description: 'Completed higher secondary education with 95% marks in PCM (Physics, Chemistry, Mathematics) stream.',
@@ -108,7 +108,7 @@ export const education: Education[] = [
   },
   {
     id: 3,
-    institution: 'PQR School',
+    institution: 'ZPHS High School',
     degree: 'Secondary Education (10th Grade)',
     duration: '2018 - 2019',
     description: 'Completed secondary education with 92% marks.',
